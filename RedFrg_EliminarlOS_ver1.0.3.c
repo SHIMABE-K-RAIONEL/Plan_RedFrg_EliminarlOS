@@ -1,4 +1,6 @@
 /*
+ * [注意]以下のコードは創作用の資料です。このため登場する企業、及び、人物は実在しません。
+ * [Note] The following code is for creative use only. For this reason, the companies and people that appear do not exist.
  * Shima-Bay Heavy Industries
  * Proprietary and Confidential
  * Date: 3023-10-28
